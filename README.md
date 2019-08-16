@@ -15,3 +15,7 @@ luego en el navegador web ir a la siguiente dirección : localhost:8081
 
 Se desplegará la solcuión en metodo get y post
 desafio-controller :
+
+La aplicación de que devuelve los peiodos debe estar corriendo en la siguiente dirección:
+
+http://127.0.0.1:8080/periodos/api
